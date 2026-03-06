@@ -1,4 +1,4 @@
-(self-signed) bir sertifika oluşturmak için:
+1: (self-signed) bir sertifika oluşturun:
 
 openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
    -keyout bbb.guler.com.key \
