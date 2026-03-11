@@ -28,4 +28,4 @@ sudo update-ca-certificates
 
 ## En İyi Pratik
 
-Production ortamında gerçek özel anahtarları (`*.key`) hiçbir zaman Git reposuna göndermeyin. Bu klasörün `.gitignore` dosyası bu amaçla hazırlanmıştır.
+Production ortamında gerçek özel anahtarları (`*.key`) hiçbir zaman Git reposuna göndermeyin.
